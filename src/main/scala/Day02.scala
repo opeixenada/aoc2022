@@ -1,7 +1,5 @@
 import Util.readFile
 
-import scala.io.Source
-
 @main def day02(): Unit = {
 
   val input = readFile("resources/day02")

@@ -1,7 +1,6 @@
 import Util.readFile
 
 import scala.annotation.tailrec
-import scala.io.Source
 
 @main def day03(): Unit = {
 
