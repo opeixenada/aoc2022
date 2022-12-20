@@ -1,7 +1,6 @@
 import Util.readFile
 
 import scala.annotation.tailrec
-import scala.collection.immutable.TreeMap
 import scala.util.matching.Regex
 
 @main def day16(): Unit = {
